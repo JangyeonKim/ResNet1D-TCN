@@ -1,0 +1,101 @@
+----------
+Epoch 0/9
+Current learning rate: 0.0001
+[   16/ 1841 (0%)]	Loss: 1.7981	Acc:0.2500	Cost time:8.371 (8.371)s	Data time:5.532 (5.532)	Instances per second: 1.91
+[  416/ 1841 (22%)]	Loss: 0.9325	Acc:0.6655	Cost time:0.190 (0.501)s	Data time:0.152 (0.354)	Instances per second: 31.94
+[  816/ 1841 (43%)]	Loss: 0.8519	Acc:0.6966	Cost time:0.187 (0.349)s	Data time:0.150 (0.255)	Instances per second: 45.86
+[ 1216/ 1841 (65%)]	Loss: 0.7882	Acc:0.7264	Cost time:0.185 (0.297)s	Data time:0.153 (0.222)	Instances per second: 53.94
+[ 1616/ 1841 (87%)]	Loss: 0.7646	Acc:0.7333	Cost time:0.194 (0.270)s	Data time:0.154 (0.205)	Instances per second: 59.21
+[ 1841/ 1841 (100%)]	Loss: 0.7577	Acc:0.7329	Cost time:0.858 (0.266)s	Data time:0.156 (0.199)	Instances per second: 60.26
+val Epoch:	 0	Loss val: 1.4110	Acc val:0.3220, LR: 0.0001
+----------
+Epoch 1/9
+Current learning rate: 0.0001
+[   16/ 1841 (0%)]	Loss: 0.6821	Acc:0.7653	Cost time:2.983 (2.983)s	Data time:2.881 (2.881)	Instances per second: 5.36
+[  416/ 1841 (22%)]	Loss: 0.8023	Acc:0.7012	Cost time:0.198 (0.300)s	Data time:0.153 (0.255)	Instances per second: 53.38
+[  816/ 1841 (43%)]	Loss: 0.7269	Acc:0.7307	Cost time:0.187 (0.248)s	Data time:0.150 (0.203)	Instances per second: 64.63
+[ 1216/ 1841 (65%)]	Loss: 0.6924	Acc:0.7473	Cost time:0.192 (0.229)s	Data time:0.150 (0.185)	Instances per second: 69.86
+[ 1616/ 1841 (87%)]	Loss: 0.6884	Acc:0.7468	Cost time:0.190 (0.220)s	Data time:0.151 (0.177)	Instances per second: 72.80
+[ 1841/ 1841 (100%)]	Loss: 0.6886	Acc:0.7491	Cost time:0.751 (0.221)s	Data time:0.150 (0.173)	Instances per second: 72.44
+val Epoch:	 1	Loss val: 1.4555	Acc val:0.4181, LR: 0.0001
+----------
+Epoch 2/9
+Current learning rate: 9.755282581475769e-05
+[   16/ 1841 (0%)]	Loss: 0.6417	Acc:0.8124	Cost time:3.069 (3.069)s	Data time:2.931 (2.931)	Instances per second: 5.21
+[  416/ 1841 (22%)]	Loss: 0.6942	Acc:0.7307	Cost time:0.188 (0.303)s	Data time:0.149 (0.258)	Instances per second: 52.82
+[  816/ 1841 (43%)]	Loss: 0.6763	Acc:0.7447	Cost time:0.191 (0.250)s	Data time:0.152 (0.207)	Instances per second: 63.99
+[ 1216/ 1841 (65%)]	Loss: 0.6623	Acc:0.7564	Cost time:0.197 (0.231)s	Data time:0.149 (0.188)	Instances per second: 69.37
+[ 1616/ 1841 (87%)]	Loss: 0.6452	Acc:0.7657	Cost time:0.191 (0.221)s	Data time:0.151 (0.179)	Instances per second: 72.50
+[ 1841/ 1841 (100%)]	Loss: 0.6357	Acc:0.7695	Cost time:0.182 (0.217)s	Data time:0.149 (0.175)	Instances per second: 73.78
+val Epoch:	 2	Loss val: 0.8248	Acc val:0.7740, LR: 9.755282581475769e-05
+----------
+Epoch 3/9
+Current learning rate: 9.045084971874738e-05
+[   16/ 1841 (0%)]	Loss: 0.4083	Acc:0.8125	Cost time:2.737 (2.737)s	Data time:2.663 (2.663)	Instances per second: 5.85
+[  416/ 1841 (22%)]	Loss: 0.6282	Acc:0.7792	Cost time:0.194 (0.301)s	Data time:0.155 (0.253)	Instances per second: 53.18
+[  816/ 1841 (43%)]	Loss: 0.6466	Acc:0.7551	Cost time:0.192 (0.249)s	Data time:0.154 (0.205)	Instances per second: 64.27
+[ 1216/ 1841 (65%)]	Loss: 0.6458	Acc:0.7554	Cost time:0.191 (0.230)s	Data time:0.150 (0.186)	Instances per second: 69.55
+[ 1616/ 1841 (87%)]	Loss: 0.6306	Acc:0.7621	Cost time:0.192 (0.221)s	Data time:0.150 (0.177)	Instances per second: 72.49
+[ 1841/ 1841 (100%)]	Loss: 0.6209	Acc:0.7663	Cost time:0.181 (0.217)s	Data time:0.149 (0.174)	Instances per second: 73.79
+val Epoch:	 3	Loss val: 0.9202	Acc val:0.6045, LR: 9.045084971874738e-05
+----------
+Epoch 4/9
+Current learning rate: 7.938926261462366e-05
+[   16/ 1841 (0%)]	Loss: 0.3798	Acc:0.8750	Cost time:2.976 (2.976)s	Data time:2.890 (2.890)	Instances per second: 5.38
+[  416/ 1841 (22%)]	Loss: 0.5681	Acc:0.8008	Cost time:0.192 (0.307)s	Data time:0.154 (0.261)	Instances per second: 52.10
+[  816/ 1841 (43%)]	Loss: 0.5960	Acc:0.7856	Cost time:0.196 (0.252)s	Data time:0.153 (0.209)	Instances per second: 63.53
+[ 1216/ 1841 (65%)]	Loss: 0.5900	Acc:0.7861	Cost time:0.194 (0.232)s	Data time:0.148 (0.189)	Instances per second: 68.94
+[ 1616/ 1841 (87%)]	Loss: 0.5991	Acc:0.7782	Cost time:0.193 (0.222)s	Data time:0.151 (0.179)	Instances per second: 71.97
+[ 1841/ 1841 (100%)]	Loss: 0.5988	Acc:0.7764	Cost time:0.901 (0.224)s	Data time:0.150 (0.176)	Instances per second: 71.30
+val Epoch:	 4	Loss val: 0.7958	Acc val:0.6667, LR: 7.938926261462366e-05
+----------
+Epoch 5/9
+Current learning rate: 6.545084971874738e-05
+[   16/ 1841 (0%)]	Loss: 0.5139	Acc:0.8125	Cost time:3.065 (3.065)s	Data time:2.959 (2.959)	Instances per second: 5.22
+[  416/ 1841 (22%)]	Loss: 0.5531	Acc:0.7952	Cost time:0.194 (0.304)s	Data time:0.155 (0.262)	Instances per second: 52.56
+[  816/ 1841 (43%)]	Loss: 0.5346	Acc:0.8076	Cost time:0.192 (0.251)s	Data time:0.152 (0.209)	Instances per second: 63.82
+[ 1216/ 1841 (65%)]	Loss: 0.5615	Acc:0.7899	Cost time:0.189 (0.231)s	Data time:0.149 (0.190)	Instances per second: 69.14
+[ 1616/ 1841 (87%)]	Loss: 0.5706	Acc:0.7848	Cost time:0.192 (0.222)s	Data time:0.150 (0.180)	Instances per second: 72.18
+[ 1841/ 1841 (100%)]	Loss: 0.5692	Acc:0.7845	Cost time:0.183 (0.218)s	Data time:0.149 (0.176)	Instances per second: 73.51
+val Epoch:	 5	Loss val: 0.6775	Acc val:0.7316, LR: 6.545084971874738e-05
+----------
+Epoch 6/9
+Current learning rate: 5e-05
+[   16/ 1841 (0%)]	Loss: 0.7757	Acc:0.6217	Cost time:3.060 (3.060)s	Data time:2.937 (2.937)	Instances per second: 5.23
+[  416/ 1841 (22%)]	Loss: 0.5438	Acc:0.7960	Cost time:0.193 (0.302)s	Data time:0.156 (0.259)	Instances per second: 52.99
+[  816/ 1841 (43%)]	Loss: 0.5548	Acc:0.7914	Cost time:0.209 (0.250)s	Data time:0.152 (0.208)	Instances per second: 64.04
+[ 1216/ 1841 (65%)]	Loss: 0.5634	Acc:0.7890	Cost time:0.184 (0.231)s	Data time:0.147 (0.188)	Instances per second: 69.34
+[ 1616/ 1841 (87%)]	Loss: 0.5592	Acc:0.7898	Cost time:0.196 (0.221)s	Data time:0.152 (0.179)	Instances per second: 72.32
+[ 1841/ 1841 (100%)]	Loss: 0.5537	Acc:0.7904	Cost time:0.185 (0.217)s	Data time:0.148 (0.175)	Instances per second: 73.59
+val Epoch:	 6	Loss val: 0.5780	Acc val:0.7910, LR: 5e-05
+----------
+Epoch 7/9
+Current learning rate: 3.4549150281252636e-05
+[   16/ 1841 (0%)]	Loss: 0.5444	Acc:0.8100	Cost time:2.596 (2.596)s	Data time:2.520 (2.520)	Instances per second: 6.16
+[  416/ 1841 (22%)]	Loss: 0.4915	Acc:0.8258	Cost time:0.195 (0.290)s	Data time:0.157 (0.247)	Instances per second: 55.13
+[  816/ 1841 (43%)]	Loss: 0.5354	Acc:0.7846	Cost time:0.200 (0.244)s	Data time:0.157 (0.202)	Instances per second: 65.67
+[ 1216/ 1841 (65%)]	Loss: 0.5422	Acc:0.7911	Cost time:0.191 (0.227)s	Data time:0.151 (0.185)	Instances per second: 70.54
+[ 1616/ 1841 (87%)]	Loss: 0.5518	Acc:0.7923	Cost time:0.192 (0.218)s	Data time:0.151 (0.176)	Instances per second: 73.32
+[ 1841/ 1841 (100%)]	Loss: 0.5480	Acc:0.7952	Cost time:0.185 (0.215)s	Data time:0.150 (0.173)	Instances per second: 74.50
+val Epoch:	 7	Loss val: 0.5833	Acc val:0.8079, LR: 3.4549150281252636e-05
+----------
+Epoch 8/9
+Current learning rate: 2.061073738537635e-05
+[   16/ 1841 (0%)]	Loss: 0.2666	Acc:0.9375	Cost time:3.125 (3.125)s	Data time:3.046 (3.046)	Instances per second: 5.12
+[  416/ 1841 (22%)]	Loss: 0.5267	Acc:0.8041	Cost time:0.193 (0.308)s	Data time:0.154 (0.265)	Instances per second: 51.90
+[  816/ 1841 (43%)]	Loss: 0.5297	Acc:0.7957	Cost time:0.198 (0.254)s	Data time:0.158 (0.211)	Instances per second: 62.97
+[ 1216/ 1841 (65%)]	Loss: 0.5043	Acc:0.8110	Cost time:0.193 (0.234)s	Data time:0.151 (0.191)	Instances per second: 68.25
+[ 1616/ 1841 (87%)]	Loss: 0.5086	Acc:0.8114	Cost time:0.192 (0.224)s	Data time:0.151 (0.181)	Instances per second: 71.45
+[ 1841/ 1841 (100%)]	Loss: 0.5080	Acc:0.8098	Cost time:0.186 (0.220)s	Data time:0.152 (0.177)	Instances per second: 72.80
+val Epoch:	 8	Loss val: 0.6993	Acc val:0.7458, LR: 2.061073738537635e-05
+----------
+Epoch 9/9
+Current learning rate: 9.549150281252633e-06
+[   16/ 1841 (0%)]	Loss: 0.4458	Acc:0.8160	Cost time:3.038 (3.038)s	Data time:2.964 (2.964)	Instances per second: 5.27
+[  416/ 1841 (22%)]	Loss: 0.4758	Acc:0.8347	Cost time:0.193 (0.304)s	Data time:0.153 (0.261)	Instances per second: 52.71
+[  816/ 1841 (43%)]	Loss: 0.4743	Acc:0.8281	Cost time:0.198 (0.251)s	Data time:0.158 (0.208)	Instances per second: 63.74
+[ 1216/ 1841 (65%)]	Loss: 0.4815	Acc:0.8246	Cost time:0.190 (0.232)s	Data time:0.147 (0.189)	Instances per second: 69.00
+[ 1616/ 1841 (87%)]	Loss: 0.4921	Acc:0.8156	Cost time:0.193 (0.222)s	Data time:0.150 (0.179)	Instances per second: 72.05
+[ 1841/ 1841 (100%)]	Loss: 0.4901	Acc:0.8175	Cost time:0.611 (0.222)s	Data time:0.150 (0.176)	Instances per second: 72.16
+val Epoch:	 9	Loss val: 0.7209	Acc val:0.7797, LR: 9.549150281252633e-06
+Test time performance of best epoch: 0.8091397849462365 (loss: 0.6354278322829995)
